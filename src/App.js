@@ -16,12 +16,8 @@ function App() {
         </Switch>
         </div>
     </Router>
-    
-    
   );
 }
-
-
 const Home = () =>(
   <div>
     <h1>Home Page </h1>
